@@ -1,0 +1,26 @@
+type: matching
+captions:
+- description
+- help
+- action
+- default
+options:
+- keeps the default value of an argument
+- responsible for what is to be done with an argument
+- contains a detailed description of arguments the program takes
+- used to explain what the program is for
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11392#comment
+status: Solved
+record: -1
+ordering:
+- 0
+- 1
+- 2
+- 3
